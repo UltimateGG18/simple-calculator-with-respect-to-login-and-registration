@@ -1,0 +1,69 @@
+.login-form-heading {
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-left: 410px;
+}
+
+.login-form-labels {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-top: 15px;
+    margin-bottom: 2px;
+    margin-left: 265px;
+}
+
+.login-form-button {
+    margin-top: 20px;
+    width: 65px;
+    height: 30px;
+    border: solid 1px #192f60;
+    color: #192f60;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    margin-left: 265px;
+}
+.userDetails-labels{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-top: 15px;
+    margin-bottom: 2px;
+}
+
+.userDetails-heading{
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
